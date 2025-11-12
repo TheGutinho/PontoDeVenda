@@ -12,7 +12,7 @@ CREATE TABLE `produtos` (
 INSERT INTO `produtos` (`codigo_pro`, `tipo_pro`, `nome_pro`, `valor_pro`,`estoque`) VALUES
 ('PRO0001', 'BEBIDAS', 'COCA COLA', '4.00','50'),
 ('PRO0002', 'CARNES', 'FRANGO CONGELADO', '10.00','10'),
-('PRO0003', 'LACTINEOS', 'IOGURTE', '6.00','99'),
+('PRO0003', 'LATICÍNIOS', 'IOGURTE', '6.00','99'),
 ('PRO0004', 'VERDURAS', 'ALFACE', '2.00','300');
 
 
