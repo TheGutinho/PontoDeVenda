@@ -11,8 +11,6 @@ Um sistema simples de Ponto de Venda (PDV) desenvolvido em Java com NetBeans IDE
 
 ## ✨ Funcionalidades
 
-(Liste as principais features do seu sistema. Isso ajuda quem visita a entender o que ele faz.)
-
 * [X] Cadastro de Produtos
 * [X] Cadastro de Usuarios
 * [X] Realização de Vendas
